@@ -8,9 +8,7 @@ import android.view.View
 import android.view.WindowManager
 import android.view.inputmethod.InputMethodManager
 
-/**
- * Created by Lalit Vasan on 9/13/2016.
- */
+
 class InputValidation
 /**
  * constructor
