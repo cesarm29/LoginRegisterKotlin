@@ -15,9 +15,6 @@ import com.androidtutorialshub.loginregisterkotlin.model.User
 import com.androidtutorialshub.loginregisterkotlin.sql.DatabaseHelper
 
 
-/**
- * Created by lalit on 8/27/2016.
- */
 class RegisterActivity : AppCompatActivity(), View.OnClickListener {
 
     private val activity = this@RegisterActivity
