@@ -8,9 +8,7 @@ import com.example.cesar.loginregisterkotlin.model.User
 import java.util.*
 
 
-/**
- * Created by lalit on 9/12/2016.
- */
+
 class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, null, DATABASE_VERSION) {
 
     // create table sql query
